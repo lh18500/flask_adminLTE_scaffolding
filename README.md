@@ -1,0 +1,1 @@
+# flask_adminLTE_scaffolding
